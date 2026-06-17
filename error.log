@@ -1,0 +1,129 @@
+[2025-05-16 05:58:22] ESP8266 error: Enrollment failed: Image error 1
+[2025-05-16 05:58:31] ESP8266 error: Enrollment failed: Conversion error 7
+[2025-05-16 05:58:44] ESP8266 error: Enrollment failed: Second conversion error 7
+[2025-05-16 05:59:31] ESP8266 error: Enrollment failed: Image error 1
+[2025-05-16 05:59:54] ESP8266 error: Enrollment failed: Image error 1
+[2025-05-16 06:00:04] ESP8266 error: Enrollment failed: Image error 1
+[2025-05-16 06:01:38] ESP8266 error: Fingerprint not found
+[2025-05-16 06:01:55] ESP8266 error: Fingerprint not found
+[2025-05-16 06:02:58] ESP8266 error: Enrollment failed: Second conversion error 7
+[2025-05-16 06:03:38] ESP8266 error: Enrollment failed: Second conversion error 7
+[2025-05-16 06:03:47] ESP8266 error: Enrollment failed: Conversion error 7
+[2025-05-16 06:04:08] ESP8266 error: Enrollment failed: Second conversion error 7
+[2025-05-16 06:04:18] ESP8266 error: Enrollment failed: Conversion error 7
+[2025-05-16 06:04:34] ESP8266 error: Enrollment failed: Model error 10
+[2025-05-16 06:04:53] ESP8266 error: Enrollment failed: Second conversion error 7
+[2025-05-16 06:05:04] ESP8266 error: Enrollment failed: Model error 10
+[2025-05-16 06:05:17] ESP8266 error: Fingerprint not found
+[2025-05-16 06:05:25] ESP8266 error: Fingerprint not found
+[2025-05-16 06:05:35] ESP8266 error: Fingerprint not found
+[2025-05-16 06:05:45] ESP8266 error: Fingerprint not found
+[2025-05-16 06:05:51] ESP8266 error: Fingerprint not found
+[2025-05-16 06:06:17] ESP8266 error: Fingerprint not found
+[2025-05-16 06:27:10] ESP8266 error: Fingerprint not found
+[2025-05-16 06:27:23] ESP8266 error: Fingerprint not found
+[2025-05-16 06:31:28] ESP8266 error: Fingerprint not found
+[2025-05-16 06:41:46] ESP8266 error: Enrollment failed: Second conversion error 7
+[2025-05-16 06:42:13] ESP8266 error: Enrollment failed: Second conversion error 7
+[2025-05-16 06:42:27] ESP8266 error: Enrollment failed: Second conversion error 7
+[2025-05-16 06:44:31] ESP8266 error: Fingerprint not found
+[2025-05-16 06:44:40] ESP8266 error: Fingerprint not found
+[2025-05-16 06:44:49] ESP8266 error: Fingerprint not found
+[16-May-2025 10:00:06 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 10:02:24 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 10:02:29 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 10:02:37 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 11:38:54 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:30:48 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.3 port 80: Timed out
+[16-May-2025 20:37:54 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.3 port 80: Timed out
+[16-May-2025 20:38:33 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.3 port 80: Timed out
+[16-May-2025 20:40:46 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.243 port 80: Connection refused
+[16-May-2025 20:41:10 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.243 port 80: Connection refused
+[16-May-2025 20:45:08 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.243 port 80: Connection refused
+[16-May-2025 20:45:20 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.243 port 80: Connection refused
+[16-May-2025 20:49:35 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.243 port 80: Connection refused
+[16-May-2025 20:52:35 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:52:42 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:52:57 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:53:03 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:53:42 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:54:46 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:54:50 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:55:01 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:55:07 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:55:14 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:55:26 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:55:54 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:56:04 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 20:56:10 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 21:05:59 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 21:06:39 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 21:13:30 Africa/Nairobi] ESP8266 communication failed: Failed to connect to 192.168.137.243 port 80: Connection refused
+[16-May-2025 21:32:41 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 21:32:47 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 21:35:48 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 21:35:53 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[16-May-2025 21:38:25 Africa/Nairobi] Enroll: Invalid ESP8266 response: {"status":"error","message":"Enrollment failed: Model error 10"}
+[16-May-2025 21:38:37 Africa/Nairobi] Enroll: Invalid ESP8266 response: {"status":"error","message":"Enrollment failed: Model error 10"}
+[17-May-2025 12:24:47 Africa/Nairobi] Attendance: ESP8266 communication failed: Failed to connect to 192.168.137.243 port 80: Timed out
+[17-May-2025 12:30:04 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:30:48 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:31:06 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:31:32 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:31:38 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:31:48 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:31:55 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:33:00 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:33:06 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:33:15 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:33:23 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:34:24 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:34:31 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:34:35 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:34:41 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:34:46 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 12:35:08 Africa/Nairobi] Attendance: Invalid ESP8266 response: {"status":"error","message":"Fingerprint not found"}
+[17-May-2025 20:07:54 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.243 port 80: Timed out
+[17-May-2025 20:08:48 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.243 port 80: Timed out
+[17-May-2025 20:32:29 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.32 port 80: Timed out
+[17-May-2025 20:59:28 Africa/Nairobi] Attendance: ESP8266 error: Operation timed out after 60001 milliseconds with 0 bytes received
+[18-May-2025 10:51:10 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.32 port 80: Timed out
+[18-May-2025 10:55:48 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.43.82 port 80: Timed out
+[18-May-2025 10:56:21 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.43.82 port 80: Timed out
+[18-May-2025 10:56:46 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.43.82 port 80: Timed out
+[18-May-2025 10:57:36 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.43.82 port 80: Timed out
+[18-May-2025 10:58:19 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.43.82 port 80: Timed out
+[19-May-2025 18:28:02 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.234 port 80: Timed out
+[19-May-2025 18:29:42 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.234 port 80: Timed out
+[19-May-2025 18:31:08 Africa/Nairobi] Attendance: ESP8266 error: Operation timed out after 60014 milliseconds with 0 bytes received
+[19-May-2025 18:32:30 Africa/Nairobi] Attendance: ESP8266 error: Operation timed out after 60005 milliseconds with 0 bytes received
+[19-May-2025 18:49:22 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.239 port 80: Connection refused
+[19-May-2025 18:49:30 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.239 port 80: Connection refused
+[19-May-2025 18:49:50 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.239 port 80: Connection refused
+[19-May-2025 18:50:36 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.239 port 80: Connection refused
+[19-May-2025 18:50:46 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.239 port 80: Connection refused
+[19-May-2025 18:50:57 Africa/Nairobi] Attendance: ESP8266 error: Failed to connect to 192.168.137.239 port 80: Connection refused
+[19-May-2025 18:52:22 Africa/Nairobi] Attendance: ESP8266 error: Operation timed out after 60012 milliseconds with 0 bytes received
+[19-May-2025 19:18:59 Africa/Nairobi] Attendance: ESP8266 error: Operation timed out after 60005 milliseconds with 0 bytes received
+[19-May-2025 19:29:34 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:33:20 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:33:33 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:33:43 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:33:47 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:36:26 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:36:56 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:37:02 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:37:08 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:37:23 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:37:33 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:37:35 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:37:39 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:37:48 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:37:53 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:41:29 Africa/Nairobi] Attendance: ESP8266 error: Operation timed out after 60003 milliseconds with 0 bytes received
+[19-May-2025 19:58:46 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:59:24 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 19:59:49 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 20:00:18 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 20:08:16 Africa/Nairobi] Unknown action: get_stats
+[19-May-2025 21:27:19 Africa/Nairobi] Attendance: ESP8266 error: Operation timed out after 60005 milliseconds with 0 bytes received

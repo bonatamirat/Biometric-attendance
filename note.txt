@@ -1,0 +1,15 @@
+ 
+ mongod////in administrator
+ 
+ mongosh   //on new terminal
+ 
+ show databases  ///to see database 
+ use biometric_attendance  
+ show collections    /////////to see table
+ db.employees.find().pretty()   to see data
+ db.users.deleteOne({ username: "admin" });  //// to delate
+  eg,,,,,,,db.users.insertOne({
+    "username": "admin",
+    "password": "$2y$10$rKbCh7sSDqcISiEHGbPbxuX25vOrhBvrUvPyuwBD7LX5XiLz8RMRm",
+    "created_at": new Date()
+});     to create
