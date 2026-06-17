@@ -1,0 +1,15 @@
+{
+    "name": "bona/biometric_attendance",
+    "description": "Biometric Attendance System",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bona"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "mongodb/mongodb": "^1.8"
+    }
+}
