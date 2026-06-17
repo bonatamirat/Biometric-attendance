@@ -1,0 +1,51 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and error files
+*.log
+error.log
+
+# Uploaded files (user-generated content)
+/uploads/
+
+# Image uploads cache
+/image/
+
+# Vendor dependencies (can be reinstalled via composer)
+/vendor/
+
+# Composer
+composer.lock
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local configuration (should not be committed)
+config.php
+!config.sample.php
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Note files
+note.txt
+
+# PDF guidelines (can be stored separately)
+GUIDLINES.pdf
+
+# Final/Arduino files (if not part of main project)
+/final/
