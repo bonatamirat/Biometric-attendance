@@ -1,0 +1,252 @@
+/* Custom styles for BioTrack Attendance System */
+:root {
+    --primary: #0d6efd;
+    --primary-dark: #0b5ed7;
+    --secondary: #6c757d;
+    --success: #198754;
+    --danger: #dc3545;
+    --warning: #ffc107;
+    --info: #0dcaf0;
+    --light: #f8f9fa;
+    --dark: #212529;
+    --body-bg: #f5f7fa;
+    --card-bg: #ffffff;
+    --shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    --shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    --shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+    --transition: all 0.3s ease;
+}
+
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--body-bg);
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+}
+
+/* Navigation */
+.navbar {
+    box-shadow: var(--shadow-sm);
+    padding: 0.75rem 1rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    transition: var(--transition);
+}
+
+.nav-link:hover {
+    transform: translateY(-2px);
+}
+
+/* Hero Sections */
+.hero-section {
+    padding: 4rem 0;
+    background: linear-gradient(135deg, var(--primary), #084298);
+}
+
+.help-hero {
+    padding: 4rem 0;
+    background: linear-gradient(rgba(13, 110, 253, 0.8), rgba(13, 110, 253, 0.9)), 
+                url('../assets/images/help-bg.jpg') center/cover no-repeat;
+}
+
+/* Cards */
+.card {
+    border: none;
+    border-radius: 0.5rem;
+    transition: var(--transition);
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow);
+}
+
+.card-header {
+    font-weight: 500;
+    padding: 1rem 1.5rem;
+}
+
+/* Team Member Images */
+.team-member-img {
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Carousel */
+.carousel {
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 0.25rem;
+    padding: 1rem;
+}
+
+/* Accordion */
+.accordion-button:not(.collapsed) {
+    background-color: rgba(13, 110, 253, 0.1);
+    color: var(--primary);
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+    border-color: rgba(13, 110, 253, 0.25);
+}
+
+/* Forms */
+.form-control {
+    border-radius: 0.25rem;
+    padding: 0.5rem 0.75rem;
+    transition: var(--transition);
+}
+
+.form-control:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+/* Buttons */
+.btn {
+    border-radius: 0.25rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    transition: var(--transition);
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+}
+
+/* Images */
+.img-fluid {
+    border-radius: 0.25rem;
+    box-shadow: var(--shadow-sm);
+}
+
+/* Tech Badges */
+.tech-badge {
+    transition: var(--transition);
+}
+
+.tech-badge:hover {
+    background-color: rgba(13, 110, 253, 0.1) !important;
+    transform: translateY(-2px);
+}
+
+/* Footer */
+footer {
+    background-color: var(--dark);
+    color: white;
+    padding: 2rem 0;
+}
+
+footer a {
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+footer a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 1.25rem;
+    }
+    
+    .hero-section, .help-hero {
+        padding: 3rem 0;
+    }
+    
+    .carousel-item img {
+        height: 300px;
+    }
+    
+    .team-member-img {
+        height: 200px;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 1.1rem;
+    }
+    
+    .hero-section, .help-hero {
+        padding: 2rem 0;
+    }
+    
+    .carousel-item img {
+        height: 250px;
+    }
+    
+    .team-member-img {
+        height: 180px;
+    }
+    
+    .search-box {
+        width: 100%;
+    }
+}
+/* Team Section Styles */
+.team-section {
+    padding: 4rem 0;
+}
+
+.team-member-card {
+    transition: transform 0.3s ease;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.team-member-card:hover {
+    transform: translateY(-10px);
+}
+
+.team-member-img {
+    height: 250px;
+    object-fit: cover;
+    object-position: top;
+}
+
+@media (max-width: 768px) {
+    .team-member-img {
+        height: 200px;
+    }
+}
